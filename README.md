@@ -1,4 +1,3 @@
-# ej-semanal-java-2
 Actividad de tarea para el curso Codo a Codo - POO
 
 Crear una clase padre con su constructor, campos a su elección (según la clase que deseen crear) y tres métodos (un getter, un setter y un método personalizado).  
