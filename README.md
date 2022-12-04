@@ -1,4 +1,4 @@
-Actividad de tarea para el curso Codo a Codo - POO
+Actividad de tarea para el curso Codo a Codo - POO:
 
 Crear una clase padre con su constructor, campos a su elección (según la clase que deseen crear) y tres métodos (un getter, un setter y un método personalizado).  
 Si lo desean puede ser una clase abstracta.
